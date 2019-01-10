@@ -1,0 +1,10 @@
+a
+b
+c
+<<<<<<< HEAD
+d
+hello world
+=======
+This is a pratice session
+>>>>>>> merge-practice
+
